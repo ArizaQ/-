@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SpiderCovid19.iml" filepath="$PROJECT_DIR$/.idea/SpiderCovid19.iml" />
+      <module fileurl="file://D:/数据科学作业/WeiboSuperSpider-master/.idea/WeiboSuperSpider-master.iml" filepath="D:/数据科学作业/WeiboSuperSpider-master/.idea/WeiboSuperSpider-master.iml" />
+    </modules>
+  </component>
+</project>
