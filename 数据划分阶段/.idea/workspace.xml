@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="920af6a3-f4b8-487b-8e28-e9a5a7e9bfb1" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="920af6a3-f4b8-487b-8e28-e9a5a7e9bfb1" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,11 +15,7 @@
       </list>
     </option>
   </component>
-  <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
-  </component>
   <component name="ProjectId" id="1l5cDbiAZMHRsZUuscF0Zb8fouU" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -30,17 +24,18 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../爬虫/CrawlerCovid19Weibo" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\数据科学作业\数据划分阶段\bDataM" />
+      <recent name="D:\数据科学作业\数据处理\testDataManagement" />
       <recent name="D:\PythonExs\SpiderCovid19\test" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.testSpider">
-    <configuration name="testAskUrl" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.bDataManagement">
+    <configuration name="DataManagement1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SpiderCovid19" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -48,11 +43,53 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/DataManagement" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/testAskUrl.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/DataManagement/DataManagement1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="bDataManagement" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpiderCovid19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/bDataM" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/bDataM/bDataManagement.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tDM" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="SpiderCovid19" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testDataManagement" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/testDataManagement/tDM.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -82,27 +119,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="testSave" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SpiderCovid19" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/testSave.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="testSpider" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="SpiderCovid19" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -124,34 +140,13 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="weibo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="SpiderCovid19" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/weibo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.bDataManagement" />
+        <item itemvalue="Python.DataManagement1" />
+        <item itemvalue="Python.tDM" />
         <item itemvalue="Python.testSpider" />
         <item itemvalue="Python.testGetData" />
-        <item itemvalue="Python.testAskUrl" />
-        <item itemvalue="Python.weibo" />
-        <item itemvalue="Python.testSave" />
       </list>
     </recent_temporary>
   </component>
@@ -173,53 +168,57 @@
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="176" y="116" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.920@0.0.1440.920" timestamp="1606918421928" />
-    <state x="501" y="216" key="FileChooserDialogImpl" timestamp="1611225790704">
+    <state x="458" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1611464310738">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="501" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1611225790704" />
-    <state width="709" height="441" key="GridCell.Tab.0.bottom" timestamp="1611249519353">
+    <state x="458" y="210" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.920@0.0.1440.920" timestamp="1611464310738" />
+    <state x="501" y="216" key="FileChooserDialogImpl" timestamp="1611466260015">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="709" height="441" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1611249519353" />
-    <state width="709" height="441" key="GridCell.Tab.0.center" timestamp="1611249519353">
+    <state x="501" y="216" key="FileChooserDialogImpl/0.0.1440.920@0.0.1440.920" timestamp="1611466260015" />
+    <state width="1419" height="210" key="GridCell.Tab.0.bottom" timestamp="1611466261550">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="709" height="441" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1611249519353" />
-    <state width="709" height="441" key="GridCell.Tab.0.left" timestamp="1611249519353">
+    <state width="1419" height="210" key="GridCell.Tab.0.bottom/0.0.1440.920@0.0.1440.920" timestamp="1611466261550" />
+    <state width="1419" height="210" key="GridCell.Tab.0.center" timestamp="1611466261550">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="709" height="441" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1611249519353" />
-    <state width="709" height="441" key="GridCell.Tab.0.right" timestamp="1611249519353">
+    <state width="1419" height="210" key="GridCell.Tab.0.center/0.0.1440.920@0.0.1440.920" timestamp="1611466261550" />
+    <state width="1419" height="210" key="GridCell.Tab.0.left" timestamp="1611466261550">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="709" height="441" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1611249519353" />
-    <state width="709" height="441" key="GridCell.Tab.1.bottom" timestamp="1611249519353">
+    <state width="1419" height="210" key="GridCell.Tab.0.left/0.0.1440.920@0.0.1440.920" timestamp="1611466261550" />
+    <state width="1419" height="210" key="GridCell.Tab.0.right" timestamp="1611466261550">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="709" height="441" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1611249519353" />
-    <state width="709" height="441" key="GridCell.Tab.1.center" timestamp="1611249519353">
+    <state width="1419" height="210" key="GridCell.Tab.0.right/0.0.1440.920@0.0.1440.920" timestamp="1611466261550" />
+    <state width="701" height="6" key="GridCell.Tab.1.bottom" timestamp="1611388016086">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="709" height="441" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1611249519353" />
-    <state width="709" height="441" key="GridCell.Tab.1.left" timestamp="1611249519353">
+    <state width="701" height="6" key="GridCell.Tab.1.bottom/0.0.1440.920@0.0.1440.920" timestamp="1611388016086" />
+    <state width="701" height="6" key="GridCell.Tab.1.center" timestamp="1611388016086">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="709" height="441" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1611249519353" />
-    <state width="709" height="441" key="GridCell.Tab.1.right" timestamp="1611249519353">
+    <state width="701" height="6" key="GridCell.Tab.1.center/0.0.1440.920@0.0.1440.920" timestamp="1611388016086" />
+    <state width="701" height="6" key="GridCell.Tab.1.left" timestamp="1611388016086">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state width="709" height="441" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1611249519353" />
+    <state width="701" height="6" key="GridCell.Tab.1.left/0.0.1440.920@0.0.1440.920" timestamp="1611388016086" />
+    <state width="701" height="6" key="GridCell.Tab.1.right" timestamp="1611388016086">
+      <screen x="0" y="0" width="1440" height="920" />
+    </state>
+    <state width="701" height="6" key="GridCell.Tab.1.right/0.0.1440.920@0.0.1440.920" timestamp="1611388016086" />
     <state x="222" y="103" key="SettingsEditor" timestamp="1606890341278">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
     <state x="222" y="103" key="SettingsEditor/0.0.1440.920@0.0.1440.920" timestamp="1606890341278" />
-    <state x="405" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1611127725476">
+    <state x="405" y="285" key="com.intellij.ide.util.TipDialog" timestamp="1611391880759">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1611127725476" />
-    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1611226738087">
+    <state x="405" y="285" key="com.intellij.ide.util.TipDialog/0.0.1440.920@0.0.1440.920" timestamp="1611391880759" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup" timestamp="1611319488190">
       <screen x="0" y="0" width="1440" height="920" />
     </state>
-    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1611226738087" />
+    <state x="383" y="195" width="672" height="678" key="search.everywhere.popup/0.0.1440.920@0.0.1440.920" timestamp="1611319488190" />
   </component>
 </project>
